@@ -1,9 +1,22 @@
-//GitHub备份版，2022年8月14日19:27:10
 //by BBC
 //
-//迅雷电影天堂, https://www.xl720.com/?s=%s
-//添加更新：超级找券,耳聆网，预告片世界、58网盘、SubDH电影、BT之家、1688、5sing、值得买、果壳剥壳、当下软件、UCbug软件/
-//
+//说明：
+// [首页] 无法设定关键词，进入网站后自行搜索。
+// [外] 需要网络支持，比如打开谷歌。
+// [缺] 网站内容可能不全、缺少资源。
+// [英] 只能使用英文搜索，不能搜中文关键词。
+// [失效] 网站无法访问后标记，等待一段时间仍然失效则移除。
+//（ 其它标记均为字面意思。）
+// 【+】 +符号的含义 ： 
+// 3个+代表非常推荐，天花板般的存在  
+// 2个+代表优秀，行业标杆！  
+// 1个+代表还不错！  
+// ==========================
+// 更新日志：
+// 2022年10月1日 更新整理内容，并添加注释。
+// 
+// 
+
 网页
     百度, http://www.baidu.com/s?wd=%s&ie=utf-8
     谷歌, https://www.google.com/search?q=%s
@@ -32,11 +45,7 @@
     A站, http://www.acfun.cn/search/#query=%s
     YouTube, http://www.youtube.com/results?search_query=%s
     google视频, https://www.google.com/search?q=%s&safe=off&hl=zh-CN&tbm=vid
-    百度视频, http://v.baidu.com/v?word=%s&ie=utf-8
-    优酷, http://www.soku.com/search_video/q_%s, www.youku.com
-    搜库, http://www.soku.com/v?keyword=%s
-    腾讯, http://v.qq.com/search.html?ms_key=%s
-    网易公开课, http://c.open.163.com/search/search.htm?query=%s#/search/all
+
 音乐
 网易云音乐, http://music.163.com/#/search/m/?s=%s
 QQ音乐, https://y.qq.com/n/ryqq/search?w=%s&t=song
@@ -47,21 +56,18 @@ QQ音乐, https://y.qq.com/n/ryqq/search?w=%s&t=song
 MyFreeMP3+, http://tool.liumingye.cn/music/?page=audioPage&type=YQD&name=%s
 无损音乐[失效], https://www.sq688.com/search.php?key=%s
 我爱Flac无损音乐[失效], https://www.52flac.com/search.php?q=%s
-无损ape8[首页][失效], https://www.ape8.cn/
-    音乐下载器[首页][失效], http://music.vaiwan.com/
-    老歌无损dtshot, https://www.dtshot.com/search/?word=%s
+    老歌无损dtshot [缺], https://www.dtshot.com/search/?word=%s
 百科
     百度百科, http://baike.baidu.com/search/word?pic=1&sug=1&word=%s
     百度文库, http://wenku.baidu.com/search?word=%s&ie=utf-8
     百度知道, http://zhidao.baidu.com/search?word=%s
-    果壳, http://www.guokr.com/search/all/?wd=%s, com.guokr
     // 萌娘百科, http://zh.moegirl.org/index.php?search=%s
     维基(en), http://en.wikipedia.org/wiki/%s
     维基(zh), http://zh.wikipedia.org/wiki/%s
 图片
     // 360, http://image.so.com/i?ie=utf-8&q=%s&src=tab_web
-    // 必应, http://cn.bing.com/images/search?q=%s
     花瓣, http://huaban.com/search/?q=%s
+    必应, http://cn.bing.com/images/search?q=%s
     百度, http://image.baidu.cn/i?ie=utf-8&word=%s
     pixiv, http://www.pixiv.net/search.php?word=%s
     flickr, http://www.flickr.com/search/?q=%s
@@ -83,8 +89,8 @@ CSDN, https://so.csdn.net/so/search?q=%s&t=&u=
 开源中国, https://www.oschina.net/search?identification=1652805851045&scope=all&q=%s
 脚本之家, http://zhannei.baidu.com/cse/site?q=%s&cc=jb51.net&ie=utf
 
-[外]程序员论坛Stack Overflow, https://stackoverflow.com/search?q=%s
-[外论坛.首]Medium, https://medium.com/
+[外] 程序员论坛Stack Overflow, https://stackoverflow.com/search?q=%s
+[外论坛.首] Medium, https://medium.com/
 高级
 百度知乎, https://www.baidu.com/s?wd=%s+site%3Azhihu.com&ie=UTF-8
 百度B站, https://www.baidu.com/s?wd=%s+site%3Abilibili.com&ie=UTF-8
@@ -106,6 +112,7 @@ UCbug软件, http://www.ucbug.com/search/all-0-1-%s.html
 当下软件[首页], http://www.downxia.com/
 西西, http://so.cr173.com/search/d/%s_all_rank.html
 油猴插件, https://greasyfork.org/zh-CN/scripts?q=%s
+game
 Steam, https://store.steampowered.com/search/?term=%s
 3DM论坛首页+搜贴+板块, https://bbs.3dmgame.com/search.php
 Skidrow(搜英+1FICHI), https://www.skidrowreloaded.com/?s=%s&x=26&y=15
@@ -114,6 +121,8 @@ Steam游戏STEAMUNLOCKED[外], https://steamunlocked.net/?s=%s
 CODEX游戏组织[繁琐], https://codexpcgames.com/?s=%s
 AllGamesForYou[外], https://agfy.co/?s=%s
 [外]BT之家[影游], http://btbtt.biz/search-index-keyword-%s.htm
+查游戏是否被黑, https://gamestatus.info/
+离线啦[game+离线号], https://lixianla.com/search-%s-1.htm
 
 自媒体
 谷歌娘, https://translate.google.cn/?hl=zh-CN&tab=TT&sl=zh-CN&tl=en&text=%s&op=translate
@@ -143,26 +152,21 @@ Pexels++免版权视频图片, https://www.pexels.com/zh-cn/search/videos/%s/
 越视网_VIP, https://www.yueshiyes.com/?s=%s&cat=
 
 电影
-凌云[类片库], https://www.lingyun.tv/search.html?wd=%s
-mp4电影[首], www.domp4.cc
-片库小号[首页], https://www.btnull.re
-茶杯狐, https://www.cupfox.com/search?key=%s
-哔嘀影视, https://www.btbdys.com/search/%s
-[缺]PDORO电影, http://www.pdoro.com/?s=%s&type=post
-[缺]音范丝, https://www.yinfans.net/?s=%s
-1337X种子磁力[英], https://www.1377x.to/search/%s/1/
+高清电台++, https://gaoqing.fm/s.php?q=%s
+片库小号++[首页], https://www.btnull.re
+PDORO电影+, http://www.pdoro.com/?s=%s&type=post
+音范丝+, https://www.yinfans.net/?s=%s
 磁力熊[首], https://www.cilixiong.com/
-[失效]高清电台, https://gaoqing.fm/s.php?q=%s
-[失效]片源网, http://www.pianyuan.tv/search?q=%s
-[失效]片库[首页], https://www.pianku.li/
-[失效·外]BT之家[影游], http://btbtt.biz/search-index-keyword-%s.htm
+哔嘀影视, https://www.btbdys.com/search/%s
+mp4电影[首], https://www.domp4.cc/
+1337X种子磁力[英], https://www.1377x.to/search/%s/1/
+[失效]凌云[类片库], https://www.lingyun.tv/search.html?wd=%s
+茶杯狐, https://www.cupfox.com/search?key=%s
+
 —字幕↓—, www.baidu.com
-字幕库2, https://zimuku.org/search?q=%s&vertoken=5d2651a9
-[登陆]字幕库, https://zmk.pw/search?q=%s
+点点字幕搜索, http://www.ddzimu.com/download/xslist.php?key=%s
 射手网[伪], https://secure.assrt.net/sub/?searchword=%s&sort=rank
 射手网[伪], https://assrt.net/sub/?searchword=%s
-[失效]字幕库, http://www.zimuku.la/search?q=%s
-SubDH电影(试运行), https://subdh.com/search/%s
 SubHD.tv字幕[验], https://subhd.tv/search/%s
 A4k字幕网, https://www.a4k.net/search?term=%s
 —相关—, www.baidu.com
@@ -170,14 +174,13 @@ A4k字幕网, https://www.a4k.net/search?term=%s
 迅雷电影天堂, https://www.xl720.com/?s=%s
 预告片世界, https://www.yugaopian.cn/?keyword=%s&view=search
 纪录片天地, http://zhannei.baidu.com/cse/search?s=17160030153119369358&entry=1&q=%s
-MP4电影电视剧(备选首页), https://www.domp4.cc/
 
 
 外
 YouTube, http://www.youtube.com/results?search_query=%s
 国外知乎Quora, https://www.quora.com/search?q=%s
 推特搜索, https://twitter.com/search?q=%s&src=typed_query&f=live
-Facebook[谷歌], https://www.google.com.hk/search?q=%s+site%3Afacebook.com
+Facebook[外], https://www.google.com.hk/search?q=%s+site%3Afacebook.com
 App下载apkpure, https://apkpure.com/cn/search?q=%s
 
 ——全能磁力↓——, www.bai.du.com
@@ -187,6 +190,6 @@ App下载apkpure, https://apkpure.com/cn/search?q=%s
 
 宅
 不会百度吗, http://buhuibaidu.me/?s=%s
-
+网站快照查询, https://2tool.top/
 //
 //
