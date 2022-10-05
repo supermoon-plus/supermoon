@@ -1,16 +1,18 @@
 //by BBC
 //
-//说明：
+//【说明：】
 // [首页] 无法设定关键词，进入网站后自行搜索。
 // [外] 需要网络支持，比如打开谷歌。
 // [缺] 网站内容可能不全、缺少资源。
 // [英] 只能使用英文搜索，不能搜中文关键词。
 // [失效] 网站无法访问后标记，等待一段时间仍然失效则移除。
 //（ 其它标记均为字面意思。）
+//
 // 【+】 +符号的含义 ： 
 // 3个+代表非常推荐，天花板般的存在  
 // 2个+代表优秀，行业标杆！  
 // 1个+代表还不错！  
+//
 // ==========================
 // 更新日志：
 // 2022年10月1日 更新整理内容，并添加注释。
@@ -112,14 +114,15 @@ UCbug软件, http://www.ucbug.com/search/all-0-1-%s.html
 当下软件[首页], http://www.downxia.com/
 西西, http://so.cr173.com/search/d/%s_all_rank.html
 油猴插件, https://greasyfork.org/zh-CN/scripts?q=%s
-game
+
+Game
 Steam, https://store.steampowered.com/search/?term=%s
 3DM论坛首页+搜贴+板块, https://bbs.3dmgame.com/search.php
-Skidrow(搜英+1FICHI), https://www.skidrowreloaded.com/?s=%s&x=26&y=15
-FitGirl游戏打包, https://fitgirlrepacks.co/search/%s
-Steam游戏STEAMUNLOCKED[外], https://steamunlocked.net/?s=%s
-CODEX游戏组织[繁琐], https://codexpcgames.com/?s=%s
-AllGamesForYou[外], https://agfy.co/?s=%s
+Skidrow++ (搜英+1FICHI), https://www.skidrowreloaded.com/?s=%s&x=26&y=15
+FreeSteam 解锁+ [英], https://steamunlocked.net/?s=%s
+CODEX游戏组织[繁琐]+, https://codexpcgames.com/?s=%s
+FitGirl游戏打包[外]+, https://fitgirlrepacks.co/search/%s
+AllGamesForYou, https://agfy.co/?s=%s
 [外]BT之家[影游], http://btbtt.biz/search-index-keyword-%s.htm
 查游戏是否被黑, https://gamestatus.info/
 离线啦[game+离线号], https://lixianla.com/search-%s-1.htm
@@ -145,9 +148,8 @@ Pexels++免版权视频图片, https://www.pexels.com/zh-cn/search/videos/%s/
 龋齿一号, http://www.gfxcamp.com/?s=%s
 大众脸, https://www.lookae.com/?s=%s
 书生资源站, https://c4dsky.com/?s=%s
-红森林, http://www.hoslin.cn/?s=%s
 地底星空, https://www.didixk.com/page/2?s=%s
-蛤蟆资源, http://www.hamaziyuan.com/plus/search.php?kwtype=0&q=%s&searchtype=title
+[失效]蛤蟆资源, http://www.hamaziyuan.com/plus/search.php?kwtype=0&q=%s&searchtype=title
 吾爱分享网, https://52sharing.cn/?s=%s
 越视网_VIP, https://www.yueshiyes.com/?s=%s&cat=
 
