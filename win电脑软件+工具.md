@@ -7,7 +7,6 @@
 - [【】]()
 
 
-feem
 
 ---
 
@@ -38,6 +37,7 @@ feem
 ### 图片、图像
 - [【Honeyview 蜜蜂浏览器】一款快速的图片查看器（32位便携）](https://cn.bandisoft.com/honeyview/)
 - [【Caesium】批量图像压缩器-便携版](https://saerasoft.com/caesium/)
+- [【GifCam】gif动图录制小工具](https://blog.bahraniapps.com/gifcam/)
 
 ### 游戏
 - [Steam](https://store.steampowered.com/)
@@ -89,7 +89,13 @@ feem
 - 文本编辑器
     - [【NotePad3】简洁/强大/开源 替代Windows记事本](https://www.rizonesoft.com/downloads/notepad3/) /// [备用下载站点](https://www.fosshub.com/Notepad3.html)
     - 【NotePad++】多功能文本编辑器[【官网】](https://notepad-plus-plus.org/downloads/)[^w]外xx /// [【其它站点】](https://www.fosshub.com/Notepad-Plus-Plus.html)
-- 【Python嵌入式DIY定制版】[【蓝奏云·合集】](https://wwt.lanzoue.com/b021w3uxc) 密码:diy  【DIY Pyinstaller embed】   
+- 【Python嵌入式DIY定制版】[【蓝奏云·合集】](https://wwt.lanzoue.com/b021w3uxc) 密码:diy  【DIY Pyinstaller embed】 
+
+### 下载工具
+- 【IDM】纯享版 By Gagle - [【youtube视频】](https://youtu.be/q5UsfJOsjuY) / [【文章】](https://ryzen.cc/archives/25/) / [【idm官网】](https://ryzen.cc/archives/25/) / [【激活+配置·文件蓝奏云hqqj】hqqj](https://gagle.lanzout.com/b0dgkxg5e)
+- [【Downkyi】B站视频下载姬](https://github.com/leiurayer/downkyi)
+
+
 ## 其它
 - [【KeePass】一款开源的密码管理器 for Windows](https://keepass.info/download.html) （下Portable便携版，更新则替换即可，中文需下汉化包/[【KeePass for Android】](https://www.9apps.com/android-apps/Keepass2Android-Password-Safe/)/[【视频教程03:40 + 坚果云同步07:30】](https://www.bilibili.com/video/BV1Jq4y1G7jM)
 - [【Maye】一款小巧简易的软件快速启动工具](https://github.com/25H/Maya)
@@ -98,9 +104,11 @@ feem
 - [【TrafficMonitor】网速监控，任务栏悬浮，开源](https://github.com/zhongyang219/TrafficMonitor)
 - [【Ventoy】制作U盘启动工具，多个iso镜像系统+PE等启动管理软件](https://www.ventoy.net/cn/index.html)
 - [【WizTree】磁盘空间分析工具-列表占用%-便携版++](https://www.diskanalyzer.com/download)
+- [【TreeSize +】磁盘空间分析器](https://www.jam-software.com/treesize_free)
+- 
 - [【SpaceSniffer】磁盘空间分析工具-方格占比](https://soft.3dmgame.com/down/200352.html)
 - [【ReNamer】批量文件重命名工具](https://www.den4b.com/products/renamer)
-- [【AlternativeTo】找出替代软件](https://alternativeto.net)
+- [【AlternativeTo】找出替代软件](https://alternativeto.net) （网页）
 - [【Keyviz】按键可视化，适合录教程、直播等展示键盘操作-便携版](https://mularahul.github.io/keyviz/#about-section)
 
 
