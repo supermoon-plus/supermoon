@@ -4,7 +4,7 @@
 ## 网站搜集：
 - [【开源大世界】搜集各种开源软件的网站](https://kydsj.vip/doku.php?id=wiki:%E7%BD%91%E7%AB%99%E7%9B%AE%E5%BD%95)
 
-- [【】]()  
+- [【】]()
 
 
 
@@ -67,6 +67,7 @@
 - 【VirtualBox】Windows虚拟机 [视频教程](https://www.bilibili.com/video/BV1ui4y1G7tQ) / [官网](https://www.virtualbox.org/)
 - 【Feem】局域网传输工具 - 全平台多设备 [【官网】](https://www.feem.io/) / [【我的蓝奏云-密码feem】](https://wwt.lanzoue.com/b021w3vpa)  
 原帖子 [【52pj PC版】](https://www.52pojie.cn/thread-1234718-1-1.html) / [【52pj 安卓版】](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1630149)
+- [【DNS优选】挑选最合适的DNS服务器](https://www.52pojie.cn/thread-976081-1-1.html) / [【蓝奏云下载】](https://gagle.lanzout.com/DNS)
 
 ### Adobe 生产力
 - [V神Vposy, Adobe发布源头](https://weibo.com/u/1112829033) - [【百度盘2022.9.5更新/提取t9i6/解压@vposy】](https://pan.baidu.com/s/1oRo8nnNLYORLGOISiTQYYw?pwd=t9i6#t9i6)
