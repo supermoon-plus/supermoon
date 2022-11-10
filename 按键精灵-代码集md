@@ -1,0 +1,180 @@
+
+
+
+
+
+# 按键精灵-常用命令
+
+>2022年6月5日 将旧笔记转写成MarkDown笔记，并且精简掉一些琐碎的内容
+
+### 简短草稿
+```c
+一行代码可以做什么？任意编辑网页
+document.body.contentEditable='true';
+
+关于投放超武坐标生成，现在有一个新思路
+可以使用等待任意键，判断上下左右的八个方向坐标
+自动生成一句坐标，比如→a→a，即：坐标向右并点投放
+（2021年8月18日00:19:19）已完成！2022年1月30日
+...
+
+```
+
+## 代码集散
+```c
+"Attachment:\神盾.bmp" //找图附件路径
+
+shubiao=WaitClick() // 等待鼠标按键，可用于启动后等特定的动作后，再进入脚本
+
+
+Dim x,y //定义变量
+
+GetCursorPos x, y // 把当前鼠标的位置，保存到坐标X，Y
+SaveMousePos // 保存当前鼠标位置
+RestoreMousePos // 恢复上次保存的鼠标位置
+
+Delay 200 //延迟200毫秒
+
+```
+### 获取时间
+```c
+GetDateTime 获取系统日期和时间
+s=Plugin.Sys.GetDateTime()
+MessageBox "您的操作系统日期和时间：" & s // 弹窗
+// 结果：2022-03-18 13:38:08
+
+```
+## 找图
+```c
+// 区域找图，  // 把图片拖入附件
+FindPic 0, 0, 2560, 1440, "Attachment:\神盾.bmp", 0.9, intX, intY
+If intX > 0 And intY > 0 Then // 判断是否找到
+// 这里写找到时的内容
+end if
+```
+### 打开文件、程序、网页
+```c
+Call Lib.API.运行程序("D:\按键精灵生成.txt") // 打开软件、程序、文件等等
+
+RunApp "D:\按键精灵-活跃日志.txt" // 打开文件、文件夹 // 填文件、文件夹的绝对路径
+
+RunApp "www.baidu.com" // 打开网页
+```
+### 写入文本
+```c
+SayString "京东阿尔法" // 前台输入，激活窗口生效
+
+Call Plugin.File.WriteFileEx("D:\按键精灵生成.txt", "文本内容xxx")
+//填入绝对路径，后台写入txt文档末尾追加1行，这句不会覆盖原内容，并每句换行，方便写入log等
+
+```
+### 字符串连接变量
+```c
+// 使用 & 可以把字符串和变量，连接起来，两边连接则需都加 & 符号
+a=1
+b=2
+MessageBox "X的坐标为"&a&",Y的坐标为"&b // 弹出窗口
+SayString "X的坐标为"&a&",Y的坐标为"&b // 写入文本
+```
+### 常见判断、循环：
+```c
+// If判断：
+If i=5 Then
+Delay 100 // 判断为true时，执行的语句
+ElseIf // 可以继续添加 否则如果，再进行判断
+Else // Else否则，当判断为false 时，执行的语句，可以不加
+End If // 结束判断，一个完整的if判断，需要添加该结尾
+
+// Do 死循环
+Do
+Delay 100  // 循环内容
+Exit Do //  跳出死循环
+Loop
+// Do ... loop ，为死循环，只有exit do才可以跳出循环，需添加Loop作为结尾
+
+// For 计次循环
+For 5 // 次数
+Delay 100 // 内容
+Next // 结尾
+// For 是计次循环，常见For 5 循环5次，For i=1 to 10 循环 i 从1~10次，此时i为变量
+```
+### 调试输出
+```c
+TracePrint “调试输出的内容！”
+// 跟 print打印相容，这里可以使用 & 连字符 将字符串和变量链接，如计次，"这是第" & a & "次的内容"
+```
+### 键盘按键, 判断按键触发执行
+```c
+key = WaitKey()  // key=键盘等待的任意按键
+if key = 49 then // 当按键key，=按键码时，按键码在【基本命令】-键盘命令里面有
+    Call 一键1冷酷
+end if
+//  [来源](https://tieba.baidu.com/p/2492519318)
+```
+### 【标记】Goto
+```c
+Rem q //标记点Q，谨慎使用，容易出 bug
+if 判断条件 then
+执行语句
+Else
+Gotu Q // 回到标记点Q，类似死循环，通过则退出
+End If
+
+Goto 标记1
+TracePrint “打印或执行指令1”【调试输出】
+TracePrint “打印或执行指令2”
+Rem 标记1
+TraocePrint “打印或执行指令3”
+// 跳转指令，使用Goto可以忽略 指令1 / 指令2
+```
+
+### 【子程序】 [参考视频](https://www.bilibili.com/video/BV1aJ411v78m?p=5)
+```c
+Sub 子程序
+// 程序执行的内容
+End Sub
+
+Call 子程序 //调用子程序, 类似函数，支持传递参数
+
+```
+
+
+### 我的常用语句：do循环：（早期版）
+```c
+Do //（循环开始）
+IfColor 39, 1027, "A05000", 0 Then
+// 判断：如果点（xx,xx）的颜色 0等于.1不等于“xxxx”则
+Exit Do // 跳出循环
+End If // 判断结束
+Loop // 循环
+Do
+IfColor 39, 1027, "A05000", 0 Then
+Exit Do
+End If
+Loop
+// 其中 do loop 中间的命令会被无限循环， exit do 这个命令 会终止当前的do 循环，直接跳转到loop那行命令之后的命令
+
+// 讯迪打单脚本用的简单找色验证判断
+IfColor 4,1028,"50A0",1 Then
+MessageBox "登录错误：无效账户"
+Else
+End If
+
+//如果点（xx,xx）的颜色 0等于1不等于“xxxx”则
+//弹出窗口“xxxxx”
+//否则
+//条件结束
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
