@@ -114,6 +114,8 @@
 - [【AlternativeTo】找出替代软件](https://alternativeto.net) （网页）
 - [【Keyviz】按键可视化，适合录教程、直播等展示键盘操作-便携版](https://mularahul.github.io/keyviz/#about-section)
 
+## 我的程序
+- 【网易云旧版客户端安装包】 [Windows电脑PC端windows_v2.90](https://blog.amarea.cn/archives/netease-cloudmusic-history-version.html) / [Androld安装包Androld_v6.48](https://www.wandoujia.com/apps/293217/history) (新版客户端根本无法忍受）
 
 - [【】]()
 
