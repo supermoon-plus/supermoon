@@ -44,6 +44,7 @@
 - [Epic](https://www.epicgames.com/site/zh-CN/home)
 - [【Steam++】加速steam界面、GitHub等](https://steampp.net/)
 - 【KaBoomTrainerX v5.74】GTA5修改器 [【蓝奏云】密码:gta5](https://wwt.lanzoue.com/iRf0j0fq63lc)
+- 三国战纪2007 [【蓝奏云】](https://wwt.lanzoue.com/iFyCt0fq6g9i)
 
 ### 输入法
 - win自带的微软拼音，简洁轻便！
