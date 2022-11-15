@@ -55,7 +55,7 @@ QQ音乐, https://y.qq.com/n/ryqq/search?w=%s&t=song
 虾米音乐, http://www.xiami.com/search?key=%s
 酷我音乐, http://sou.kuwo.cn/ws/NSearch?key=%s
 第三方合集[失效], https://music.liuzhijin.cn/?name=%s&type=netease
-MyFreeMP3+, http://tool.liumingye.cn/music/?page=audioPage&type=YQD&name=%s
+MyFreeMP3+, http://tools.liumingye.cn/music_old/?page=audioPage&type=migu&name=%s
 无损音乐[失效], https://www.sq688.com/search.php?key=%s
 我爱Flac无损音乐[失效], https://www.52flac.com/search.php?q=%s
     老歌无损dtshot [缺], https://www.dtshot.com/search/?word=%s
@@ -183,6 +183,9 @@ YouTube, http://www.youtube.com/results?search_query=%s
 国外知乎Quora, https://www.quora.com/search?q=%s
 推特搜索, https://twitter.com/search?q=%s&src=typed_query&f=live
 Facebook[外], https://www.google.com.hk/search?q=%s+site%3Afacebook.com
+谷歌商店play, https://play.google.com/store/search?q=%s&c=apps
+谷歌apk下载器[首页], https://apps.evozi.com/apk-downloader/
+9Apps, https://www.9apps.com/search/tag-%s-1/
 App下载apkpure, https://apkpure.com/cn/search?q=%s
 
 ——全能磁力↓——, www.bai.du.com
