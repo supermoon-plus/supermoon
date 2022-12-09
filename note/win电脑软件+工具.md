@@ -20,10 +20,11 @@
 
 
 ### 本地视频播放器
-
-- [VLC, 是一款自由、开源的跨平台多媒体播放器](https://www.videolan.org/vlc/)
+- 【PotPlayer】[【官网】](https://potplayer.daum.net/?lang=zh_CN) [^w]外 / 
+- [【VLC】一款自由开源跨平台播放器](https://www.videolan.org/vlc/)
 
 ### 音乐
+- 【网易云旧版】[windows_v2.91](https://blog.amarea.cn/archives/netease-cloudmusic-history-version.html)（关自动升级）
 - [【洛雪音乐助手桌面版】音乐下载、播放器 - 开源](https://github.com/lyswhut/lx-music-desktop)
 - [【XMusicDownloader】搜索并下载歌曲的程序](https://github.com/jadepeng/XMusicDownloader)
 
@@ -38,6 +39,12 @@
 - [【Honeyview 蜜蜂浏览器】一款快速的图片查看器（32位便携）](https://cn.bandisoft.com/honeyview/)
 - [【Caesium】批量图像压缩器-便携版](https://saerasoft.com/caesium/)
 - [【GifCam】gif动图录制小工具](https://blog.bahraniapps.com/gifcam/)
+
+### 电子书、阅读
+- [【Koodo Reader】开源免费电子书阅读器，支持多种主流格式 【官网】](https://koodo.960960.xyz/zh) / [GitHub](https://github.com/troyeguo/koodo-reader)
+- [【静读天下】安卓端最强的电子书阅读APP](https://post.smzdm.com/p/a3g7dzkd/)
+- 
+
 
 ### 游戏
 - [Steam](https://store.steampowered.com/)
@@ -56,8 +63,8 @@
 [【果壳】](https://www.ghxi.com/bandicam.html)/[【破姐】](https://www.ypojie.com/965.html)/[【其他3】](https://foxirj.com/bandicam)
 
 ### 压缩软件
-- [PeaZip 豌豆压缩（开源软件，功能强大，口碑+++）](https://peazip.github.io/peazip-64bit.html)
-- [7-Zip（大名鼎鼎的开源压缩软件，国内很多压缩软件都是基于7zip制作的）](https://sparanoid.com/lab/7z/)
+- [【PeaZip】豌豆压缩（开源软件，功能强大，口碑+++）](https://peazip.github.io/peazip-64bit.html)
+- [【7-Zip】大名鼎鼎的开源压缩软件，国内很多压缩软件都是基于7zip制作的](https://sparanoid.com/lab/7z/)
 
 
 
@@ -70,6 +77,7 @@
 - 【Feem】局域网传输工具 - 全平台多设备 [【官网】](https://www.feem.io/) / [【我的蓝奏云-密码feem】](https://wwt.lanzoue.com/b021w3vpa)  
 原帖子 [【52pj PC版】](https://www.52pojie.cn/thread-1234718-1-1.html) / [【52pj 安卓版】](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1630149)
 - [【DNS优选】挑选最合适的DNS服务器](https://www.52pojie.cn/thread-976081-1-1.html) / [【蓝奏云下载】](https://gagle.lanzout.com/DNS)
+- [【定时自动关机】WiseAuto Shutdown](https://www.wisecleaner.com/wise-auto-shutdown.html)
 
 ### Adobe 生产力
 - [V神Vposy, Adobe发布源头](https://weibo.com/u/1112829033) - [【百度盘2022.9.5更新/提取t9i6/解压@vposy】](https://pan.baidu.com/s/1oRo8nnNLYORLGOISiTQYYw?pwd=t9i6#t9i6)
@@ -78,11 +86,16 @@
 [【大众脸LookAE】](https://www.lookae.com/)/[【龋齿一号】](http://www.gfxcamp.com/)/[【五分钱特效】](https://www.vfxcool.com)/[【新CG儿】](www.newcger.com)
 - 
 
-
 ### 办公软件
 - [【Office Tool Plus - 2021】](https://otp.landian.vip/zh-cn/download.html)/[【视频】](https://www.bilibili.com/video/BV193411K7Yq)
 - [【HEU_KMS】Win、Office激活工具](https://github.com/zbezj/HEU_KMS_Activator/releases)
 - [【OnlyOffice】一个免费开源的国际化全能办公软件](https://www.onlyoffice.com/zh/)
+- 
+
+### 笔记软件
+- [【Obsidian】Markdown语法，双向链接笔记软件](https://obsidian.md/)
+- [【Simplenote】简洁多平台同步Markdown笔记软件](https://simplenote.com/)
+- [【有道云笔记】轻量级笔记文档同步的国产软件](https://note.youdao.com/note-download/)
 
 ### 编程
 - [【MiniConda】Python环境管理工具](https://docs.conda.io/en/latest/miniconda.html) 
@@ -113,9 +126,14 @@
 - [【ReNamer】批量文件重命名工具](https://www.den4b.com/products/renamer)
 - [【AlternativeTo】找出替代软件](https://alternativeto.net) （网页）
 - [【Keyviz】按键可视化，适合录教程、直播等展示键盘操作-便携版](https://mularahul.github.io/keyviz/#about-section)
+- [【FastGithub】GitHub 加速神器，开源](https://github.com/dotnetcore/FastGithub)
 
-## 我的程序
-- 【网易云旧版客户端安装包】 [Windows电脑PC端windows_v2.90](https://blog.amarea.cn/archives/netease-cloudmusic-history-version.html) / [Androld安装包Androld_v6.48](https://www.wandoujia.com/apps/293217/history) (新版客户端根本无法忍受）
+
+### 我的程序
+- 【网易云旧版客户端安装包】  
+[Windows电脑PC端windows_v2.91（关自动升级）](https://blog.amarea.cn/archives/netease-cloudmusic-history-version.html)  
+[Androld安装包Androld_v6.48](https://www.wandoujia.com/apps/293217/history)  (新版客户端根本无法忍受）
+- 【有道云笔记】老版本v6.10.1.0
 
 - [【】]()
 
