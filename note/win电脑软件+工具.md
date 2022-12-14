@@ -10,6 +10,8 @@
 
 ---
 
+
+
 ### 浏览器
 - [【Edge】windowns默认浏览器](https://www.microsoft.com/zh-cn/edge)
 - [【Chrome】谷歌浏览器](https://www.google.cn/chrome/index.html)
@@ -80,7 +82,7 @@
 - [【定时自动关机】WiseAuto Shutdown](https://www.wisecleaner.com/wise-auto-shutdown.html)
 
 ### Adobe 生产力
-- [V神Vposy, Adobe发布源头](https://weibo.com/u/1112829033) - [【百度盘2022.9.5更新/提取t9i6/解压@vposy】](https://pan.baidu.com/s/1oRo8nnNLYORLGOISiTQYYw?pwd=t9i6#t9i6)
+- [【Vposy】 B站动态](https://space.bilibili.com/252157636/dynamic) - [【百度盘2022年11月14日更新/提取-6g8x/解压@vposy】](https://pan.baidu.com/s/1Z4_iJNcq7koRt3vN7KxB3w?pwd=6g8x)
 - [【小丸工具箱】一款处理音频/视频文件的软件](https://maruko.appinn.me/)
 - 【Adobe PS/PR/AE等模板网站】  
 [【大众脸LookAE】](https://www.lookae.com/)/[【龋齿一号】](http://www.gfxcamp.com/)/[【五分钱特效】](https://www.vfxcool.com)/[【新CG儿】](www.newcger.com)
@@ -108,6 +110,9 @@
 - 【Python嵌入式DIY定制版】[【蓝奏云·合集】](https://wwt.lanzoue.com/b021w3uxc) 密码:diy  【DIY Pyinstaller embed】 
 
 ### 下载工具
+- 【qBittorrent + BitComet + 热门Tracker列表收集】 持续更新[【官网】](https://trackerslist.com/#/zh) / [【GitHub】](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)  
+[【比特彗星】配置解锁便携版 - 蓝奏云](https://pan.lanzouv.com/b073c7g4f)  
+[【qBittorrent】配置增强自动更新便携版 - 蓝奏云](https://pan.lanzouv.com/b073dnr7g)
 - 【IDM】纯享版 By Gagle - [【youtube视频】](https://youtu.be/q5UsfJOsjuY) / [【文章】](https://ryzen.cc/archives/25/) / [【idm官网】](https://ryzen.cc/archives/25/) / [【激活+配置·文件蓝奏云hqqj】hqqj](https://gagle.lanzout.com/b0dgkxg5e)
 - [【Downkyi】B站视频下载姬](https://github.com/leiurayer/downkyi)
 
