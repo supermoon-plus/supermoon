@@ -106,7 +106,7 @@
 - [【按键精灵】非常简单轻量化的模拟鼠标键盘操作的软件](http://download.myanjian.com/)
 - 文本编辑器
     - [【NotePad3】简洁/强大/开源 替代Windows记事本](https://www.rizonesoft.com/downloads/notepad3/) /// [备用下载站点](https://www.fosshub.com/Notepad3.html)
-    - 【NotePad++】多功能文本编辑器[【官网】](https://notepad-plus-plus.org/downloads/)[^w]外xx /// [【其它站点】](https://www.fosshub.com/Notepad-Plus-Plus.html)
+    - 【NotePad++】多功能文本编辑器[【官网】](https://notepad-plus-plus.org/downloads/)[^w]外xx /// [【其它站点】](https://www.fosshub.com/Notepad-Plus-Plus.html) / [【添加至右键-文章】](http://t.csdn.cn/vjamK)  
 - 【Python嵌入式DIY定制版】[【蓝奏云·合集】](https://wwt.lanzoue.com/b021w3uxc) 密码:diy  【DIY Pyinstaller embed】 
 
 ### 下载工具
@@ -118,7 +118,8 @@
 
 
 ## 其它
-- [【KeePass】一款开源的密码管理器 for Windows](https://keepass.info/download.html) （下Portable便携版，更新则替换即可，中文需下汉化包/[【KeePass for Android】](https://www.9apps.com/android-apps/Keepass2Android-Password-Safe/)/[【视频教程03:40 + 坚果云同步07:30】](https://www.bilibili.com/video/BV1Jq4y1G7jM)
+- [【KeePass】一款开源的密码管理器 for Windows](https://keepass.info/download.html) （下Portable便携版），更新则替换即可，中文需下汉化包  
+[安卓版KeePass for Android](https://www.9apps.com/android-apps/Keepass2Android-Password-Safe/)  /  [【视频使用教程+坚果云同步】](https://www.bilibili.com/video/BV1Jq4y1G7jM)
 - [【Maye】一款小巧简易的软件快速启动工具](https://github.com/25H/Maya)
 - [【Snipaste】小巧轻便，功能强大的截图软件](https://www.snipaste.com/)
 - 【Telegram】聊天软件，吊打qq微信，开源[【官网】](https://telegram.org/)[^w]外
