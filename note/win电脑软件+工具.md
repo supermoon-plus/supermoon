@@ -13,9 +13,9 @@
 
 
 ### 浏览器
+- [【百分浏览器】Chromium内核，增强版谷歌浏览器](https://www.centbrowser.cn/)
 - [【Edge】windowns默认浏览器](https://www.microsoft.com/zh-cn/edge)
 - [【Chrome】谷歌浏览器](https://www.google.cn/chrome/index.html)
-- [【百分浏览器】Chromium内核，增强版谷歌浏览器](https://www.centbrowser.cn/)
 
 ### 文件搜索/检索
 - [【Everything】快速定位文件和文件夹，便携版](https://www.voidtools.com/zh-cn/)
@@ -74,12 +74,17 @@
 ### 系统工具
 - [【Dism++】电脑系统工具，清理、管理、热备份+恢复 - 开源](https://github.com/Chuyu-Team/Dism-Multi-language)
 - [【Geek Uninstaller】极客卸载，小巧便捷，100%免费](https://geekuninstaller.com/)
+- [【SoftCnKiller】流氓软件/高速下崽捆绑软件杀手](https://blog.csdn.net/hfhbutn/article/details/104799162) / [【蓝奏云下载】](https://free.lanzoux.com/b0cpu1guf)
+- 
 - [【MyComputerManager】一键删除"我的电脑"里，各种流氓快捷方式，开源](https://github.com/1357310795/MyComputerManager) （右侧Releases下载）
 - 【VirtualBox】Windows虚拟机 [视频教程](https://www.bilibili.com/video/BV1ui4y1G7tQ) / [官网](https://www.virtualbox.org/)
 - 【Feem】局域网传输工具 - 全平台多设备 [【官网】](https://www.feem.io/) / [【我的蓝奏云-密码feem】](https://wwt.lanzoue.com/b021w3vpa)  
 原帖子 [【52pj PC版】](https://www.52pojie.cn/thread-1234718-1-1.html) / [【52pj 安卓版】](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1630149)
 - [【DNS优选】挑选最合适的DNS服务器](https://www.52pojie.cn/thread-976081-1-1.html) / [【蓝奏云下载】](https://gagle.lanzout.com/DNS)
 - [【定时自动关机】WiseAuto Shutdown](https://www.wisecleaner.com/wise-auto-shutdown.html)
+- 【Wise Care 365】
+- 【WinExt】（待定）
+- [【CopyQ】开源/跨平台 剪贴板管理工具](https://hluk.github.io/CopyQ/) / [【文章介绍】](https://www.appinn.com/copyq/)
 
 ### Adobe 生产力
 - [【Vposy】 B站动态](https://space.bilibili.com/252157636/dynamic) - [【百度盘2022年11月14日更新/提取-6g8x/解压@vposy】](https://pan.baidu.com/s/1Z4_iJNcq7koRt3vN7KxB3w?pwd=6g8x)
@@ -97,7 +102,7 @@
 ### 笔记软件
 - [【Obsidian】Markdown语法，双向链接笔记软件](https://obsidian.md/)
 - [【Simplenote】简洁多平台同步Markdown笔记软件](https://simplenote.com/)
-- [【有道云笔记】轻量级笔记文档同步的国产软件](https://note.youdao.com/note-download/)
+- [【有道云笔记】轻量级笔记文档同步的国产软件](https://note.youdao.com/note-download/) （尽量别用）
 
 ### 编程
 - [【MiniConda】Python环境管理工具](https://docs.conda.io/en/latest/miniconda.html) 
@@ -145,11 +150,8 @@
 
 
 ---
-> 更新时间：  
-> 2022年11月10日
-> 2022年10月23日  
-> 2022年9月26日  
-
+> 更新时间：2023年1月7日
+> 
 > 创建时间：2022年9月06日  
 
 ---
