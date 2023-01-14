@@ -14,8 +14,8 @@
 // 1个+代表还不错！  
 //
 // ==========================
-// 更新日志：
-// 2022年10月1日 更新整理内容，并添加注释。
+// 最后更新时间：
+// 2023年1月14日
 // 
 // 
 
@@ -47,17 +47,19 @@
 A站, http://www.acfun.cn/search/#query=%s
 YouTube, http://www.youtube.com/results?search_query=%s
 google视频, https://www.google.com/search?q=%s&safe=off&hl=zh-CN&tbm=vid
+■■■■■【书↓】■■■■■, 111
+读库ReadHub (搜书), https://readhub.one/search?name=%s
 ■■■■■【音乐↓】■■■■■, 111
 网易云音乐, http://music.163.com/#/search/m/?s=%s
 QQ音乐, https://y.qq.com/n/ryqq/search?w=%s&t=song
 5sing, http://search.5sing.kugou.com/?keyword=%s
+虾米音乐, http://www.xiami.com/search?key=%s
+酷我音乐, http://sou.kuwo.cn/ws/NSearch?key=%s
 第三方合集[失效], https://music.liuzhijin.cn/?name=%s&type=netease
 MyFreeMP3+, http://tools.liumingye.cn/music_old/?page=audioPage&type=migu&name=%s
 无损音乐[失效], https://www.sq688.com/search.php?key=%s
 我爱Flac无损音乐[失效], https://www.52flac.com/search.php?q=%s
 老歌无损dtshot [缺], https://www.dtshot.com/search/?word=%s
-音乐客163.re[首页], http://www.yinyue.tw/
-无名音乐, https://thewind.xyz/?keyword=%s
 
 图片
     花瓣, http://huaban.com/search/?q=%s
