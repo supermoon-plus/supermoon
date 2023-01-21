@@ -6,7 +6,7 @@
 
 - [【】]()
 
-
+> 最后更新时间： 2023 年 1 月 21 日
 
 ---
 
@@ -22,11 +22,11 @@
 
 
 ### 本地视频播放器
-- 【PotPlayer】[【官网】](https://potplayer.daum.net/?lang=zh_CN) [^w]外 / 
+- 【PotPlayer】 [【官网】](https://potplayer.daum.net/?lang=zh_CN) [^w]外 / 
 - [【VLC】一款自由开源跨平台播放器](https://www.videolan.org/vlc/)
 
 ### 音乐
-- 【网易云旧版】[windows_v2.91](https://blog.amarea.cn/archives/netease-cloudmusic-history-version.html)（关自动升级）
+- 【网易云旧版】 [windows_v2.91](https://blog.amarea.cn/archives/netease-cloudmusic-history-version.html)（关自动升级）
 - [【洛雪音乐助手桌面版】音乐下载、播放器 - 开源](https://github.com/lyswhut/lx-music-desktop)
 - [【XMusicDownloader】搜索并下载歌曲的程序](https://github.com/jadepeng/XMusicDownloader)
 
@@ -34,7 +34,7 @@
 ### 音频编辑器
 - [【Audacity 大胆】音频录制、编辑软件，开源](https://www.audacityteam.org/)
 - [【Ocenaudio】简单、便捷的音频录制编辑软件](https://www.audacityteam.org/)
-- [【AI音频配音专家】阿里语音合成接口， 吾爱大佬开源](https://www.52pojie.cn/thread-1375621-1-1.html)/[【GitHub开源】](https://github.com/bawangxx/XZVoice)
+- [【AI音频配音专家】阿里语音合成接口， 吾爱大佬开源](https://www.52pojie.cn/thread-1375621-1-1.html) / [【GitHub开源】](https://github.com/bawangxx/XZVoice)
 - [【录音精灵】v4.3.50吾爱特别版](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1316853) / [蓝奏云Download](https://fxwwws.lanzoux.com/iAHanivq6ri)
 
 ### 图片、图像
@@ -52,17 +52,17 @@
 - [Steam](https://store.steampowered.com/)
 - [Epic](https://www.epicgames.com/site/zh-CN/home)
 - [【Steam++】加速steam界面、GitHub等](https://steampp.net/)
-- 【KaBoomTrainerX v5.74】GTA5修改器 [【蓝奏云】密码:gta5](https://wwt.lanzoue.com/iRf0j0fq63lc)
-- 三国战纪2007 [【蓝奏云】](https://wwt.lanzoue.com/iFyCt0fq6g9i)
+- 【KaBoomTrainerX v5.74】GTA5 修改器 [【蓝奏云】密码:gta5](https://wwt.lanzoue.com/iRf0j0fq63lc)
+- 三国战纪 2007 [【蓝奏云】](https://wwt.lanzoue.com/iFyCt0fq6g9i)
 
 ### 输入法
-- win自带的微软拼音，简洁轻便！
+- win 自带的微软拼音，简洁轻便！
 - [中州韵 小狼毫输入法（强大开源的输入法软件，但设置配置难度高）](https://rime.im/)
 
 ### 录像软件
 - [【OBS ++】强大的电脑屏幕录制、直播推流的软件 - 开源](https://obsproject.com/)
 - [【Bandicam】简单轻便、功能丰富的电脑屏幕录像、游戏录制软件（付费）](https://www.bandicam.cn/)  
-[【果壳】](https://www.ghxi.com/bandicam.html)/[【破姐】](https://www.ypojie.com/965.html)/[【其他3】](https://foxirj.com/bandicam)
+[【果壳】](https://www.ghxi.com/bandicam.html) / [【破姐】](https://www.ypojie.com/965.html) / [【其他3】](https://foxirj.com/bandicam)
 
 ### 压缩软件
 - [【PeaZip】豌豆压缩（开源软件，功能强大，口碑+++）](https://peazip.github.io/peazip-64bit.html)
@@ -72,12 +72,14 @@
 
 
 ### 系统工具
+
+- [【QTTabBar】多开标签文件夹管理器【官网】)]( http://qttabbar.wikidot.com/ )   / [蓝奏云+说明]( https://wwga.lanzoum.com/iKlcp0ljuy7c )
 - [【Dism++】电脑系统工具，清理、管理、热备份+恢复 - 开源](https://github.com/Chuyu-Team/Dism-Multi-language)
 - [【Geek Uninstaller】极客卸载，小巧便捷，100%免费](https://geekuninstaller.com/)
 - [【SoftCnKiller】流氓软件/高速下崽捆绑软件杀手](https://blog.csdn.net/hfhbutn/article/details/104799162) / [【蓝奏云下载】](https://free.lanzoux.com/b0cpu1guf)
 - 
-- [【MyComputerManager】一键删除"我的电脑"里，各种流氓快捷方式，开源](https://github.com/1357310795/MyComputerManager) （右侧Releases下载）
-- 【VirtualBox】Windows虚拟机 [视频教程](https://www.bilibili.com/video/BV1ui4y1G7tQ) / [官网](https://www.virtualbox.org/)
+- [【MyComputerManager】一键删除"我的电脑"里，各种流氓快捷方式，开源](https://github.com/1357310795/MyComputerManager) （右侧 Releases 下载）
+- 【VirtualBox】Windows 虚拟机 [视频教程](https://www.bilibili.com/video/BV1ui4y1G7tQ) / [官网](https://www.virtualbox.org/)
 - 【Feem】局域网传输工具 - 全平台多设备 [【官网】](https://www.feem.io/) / [【我的蓝奏云-密码feem】](https://wwt.lanzoue.com/b021w3vpa)  
 原帖子 [【52pj PC版】](https://www.52pojie.cn/thread-1234718-1-1.html) / [【52pj 安卓版】](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1630149)
 - [【DNS优选】挑选最合适的DNS服务器](https://www.52pojie.cn/thread-976081-1-1.html) / [【蓝奏云下载】](https://gagle.lanzout.com/DNS)
@@ -89,12 +91,12 @@
 ### Adobe 生产力
 - [【Vposy】 B站动态](https://space.bilibili.com/252157636/dynamic) - [【百度盘2022年11月14日更新/提取-6g8x/解压@vposy】](https://pan.baidu.com/s/1Z4_iJNcq7koRt3vN7KxB3w?pwd=6g8x)
 - [【小丸工具箱】一款处理音频/视频文件的软件](https://maruko.appinn.me/)
-- 【Adobe PS/PR/AE等模板网站】  
-[【大众脸LookAE】](https://www.lookae.com/)/[【龋齿一号】](http://www.gfxcamp.com/)/[【五分钱特效】](https://www.vfxcool.com)/[【新CG儿】](www.newcger.com)
+- 【Adobe PS/PR/AE 等模板网站】  
+[【大众脸LookAE】](https://www.lookae.com/) / [【龋齿一号】](http://www.gfxcamp.com/) / [【五分钱特效】](https://www.vfxcool.com) / [【新CG儿】](www.newcger.com)
 - 
 
 ### 办公软件
-- [【Office Tool Plus - 2021】](https://otp.landian.vip/zh-cn/download.html)/[【视频】](https://www.bilibili.com/video/BV193411K7Yq)
+- [【Office Tool Plus - 2021】](https://otp.landian.vip/zh-cn/download.html) / [【视频】](https://www.bilibili.com/video/BV193411K7Yq)
 - [【HEU_KMS】Win、Office激活工具](https://github.com/zbezj/HEU_KMS_Activator/releases)
 - [【OnlyOffice】一个免费开源的国际化全能办公软件](https://www.onlyoffice.com/zh/)
 - 
@@ -111,11 +113,11 @@
 - [【按键精灵】非常简单轻量化的模拟鼠标键盘操作的软件](http://download.myanjian.com/)
 - 文本编辑器
     - [【NotePad3】简洁/强大/开源 替代Windows记事本](https://www.rizonesoft.com/downloads/notepad3/) /// [备用下载站点](https://www.fosshub.com/Notepad3.html)
-    - 【NotePad++】多功能文本编辑器[【官网】](https://notepad-plus-plus.org/downloads/)[^w]外xx /// [【其它站点】](https://www.fosshub.com/Notepad-Plus-Plus.html) / [【添加至右键-文章】](http://t.csdn.cn/vjamK)  
-- 【Python嵌入式DIY定制版】[【蓝奏云·合集】](https://wwt.lanzoue.com/b021w3uxc) 密码:diy  【DIY Pyinstaller embed】 
+    - 【NotePad++】多功能文本编辑器 [【官网】](https://notepad-plus-plus.org/downloads/) [^w]外 xx /// [【其它站点】](https://www.fosshub.com/Notepad-Plus-Plus.html) / [【添加至右键-文章】](http://t.csdn.cn/vjamK)  
+- 【Python 嵌入式 DIY 定制版】 [【蓝奏云·合集】](https://wwt.lanzoue.com/b021w3uxc) 密码: diy  【DIY Pyinstaller embed】 
 
 ### 下载工具
-- 【qBittorrent + BitComet + 热门Tracker列表收集】 持续更新[【官网】](https://trackerslist.com/#/zh) / [【GitHub】](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)  
+- 【qBittorrent + BitComet + 热门 Tracker 列表收集】 持续更新 [【官网】](https://trackerslist.com/#/zh) / [【GitHub】](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)  
 [【比特彗星】配置解锁便携版 - 蓝奏云](https://pan.lanzouv.com/b073c7g4f)  
 [【qBittorrent】配置增强自动更新便携版 - 蓝奏云](https://pan.lanzouv.com/b073dnr7g)
 - 【IDM】纯享版 By Gagle - [【youtube视频】](https://youtu.be/q5UsfJOsjuY) / [【文章】](https://ryzen.cc/archives/25/) / [【idm官网】](https://ryzen.cc/archives/25/) / [【激活+配置·文件蓝奏云hqqj】hqqj](https://gagle.lanzout.com/b0dgkxg5e)
@@ -123,11 +125,11 @@
 
 
 ## 其它
-- [【KeePass】一款开源的密码管理器 for Windows](https://keepass.info/download.html) （下Portable便携版），更新则替换即可，中文需下汉化包  
+- [【KeePass】一款开源的密码管理器 for Windows](https://keepass.info/download.html) （下 Portable 便携版），更新则替换即可，中文需下汉化包  
 [安卓版KeePass for Android](https://www.9apps.com/android-apps/Keepass2Android-Password-Safe/)  /  [【视频使用教程+坚果云同步】](https://www.bilibili.com/video/BV1Jq4y1G7jM)
 - [【Maye】一款小巧简易的软件快速启动工具](https://github.com/25H/Maya)
 - [【Snipaste】小巧轻便，功能强大的截图软件](https://www.snipaste.com/)
-- 【Telegram】聊天软件，吊打qq微信，开源[【官网】](https://telegram.org/)[^w]外
+- 【Telegram】聊天软件，吊打 qq 微信，开源 [【官网】](https://telegram.org/) [^w]外
 - [【TrafficMonitor】网速监控，任务栏悬浮，开源](https://github.com/zhongyang219/TrafficMonitor)
 - [【Ventoy】制作U盘启动工具，多个iso镜像系统+PE等启动管理软件](https://www.ventoy.net/cn/index.html)
 - [【WizTree】磁盘空间分析工具-列表占用%-便携版++](https://www.diskanalyzer.com/download)
@@ -144,15 +146,15 @@
 - 【网易云旧版客户端安装包】  
 [Windows电脑PC端windows_v2.91（关自动升级）](https://blog.amarea.cn/archives/netease-cloudmusic-history-version.html)  
 [Androld安装包Androld_v6.48](https://www.wandoujia.com/apps/293217/history)  (新版客户端根本无法忍受）
-- 【有道云笔记】老版本v6.10.1.0
+- 【有道云笔记】老版本 v6.10.1.0
 
 - [【】]()
 
 
 ---
-> 更新时间：2023年1月7日
+> 更新时间：2023 年 1 月 7 日
 > 
-> 创建时间：2022年9月06日  
+> 创建时间：2022 年 9 月 06 日  
 
 ---
 [^w]: 需要网络支持，例如打开谷歌。
