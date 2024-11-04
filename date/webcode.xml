@@ -1,5 +1,5 @@
 // 最后更新时间：
-// 2023 年 3 月 9 日
+// 2024年11月4日
 // 
 //【说明：】
 // [首页] 无法设定关键词，进入网站后自行搜索。
@@ -22,11 +22,12 @@
     必应, https://cn.bing.com/search?q=%s
     知乎, http://www.zhihu.com/search?q=%s
     B 站, https://search.bilibili.com/all?keyword=%s
+    xhs, https://www.xiaohongshu.com/search_result?keyword=%s&source=web_search_result_notes
     贴吧, http://tieba.baidu.com/f?kw=%s&ie=utf-8
     新浪微博, http://s.weibo.com/weibo/%s
     微信图文, https://weixin.sogou.com/weixin?type=2&query=%s
     百度指数, http://zhishu.baidu.com/v2/main/index.html#/trend/%s?words=%s
-    数据更新, https://github.com/supermoon-plus/supermoon/blob/main/date/webcode.xml
+    数据更新3.17, https://github.com/supermoon-plus/supermoon/blob/main/date/webcode.xml
 购物
 淘宝, http://s.taobao.com/search?q=%s
 淘宝店铺, https://shopsearch.taobao.com/search?q=%s
@@ -53,8 +54,10 @@ QQ 音乐, https://y.qq.com/n/ryqq/search?w=%s&t=song
 5sing, http://search.5sing.kugou.com/?keyword=%s
 虾米音乐, http://www.xiami.com/search?key=%s
 酷我音乐, http://sou.kuwo.cn/ws/NSearch?key=%s
-第三方合集[失效], https://music.liuzhijin.cn/?name=%s&type=netease
 MyFreeMP3+, http://tools.liumingye.cn/music_old/?page=audioPage&type=migu&name=%s
+音乐磁场Hifini[登录], https://www.hifini.com/search-%s.htm
+// 账号120321321@qq.com，密码321321321，用户名wusong321321321
+第三方合集[失效], https://music.liuzhijin.cn/?name=%s&type=netease
 无损音乐[失效], https://www.sq688.com/search.php?key=%s
 我爱 Flac 无损音乐[失效], https://www.52flac.com/search.php?q=%s
 老歌无损 dtshot [缺], https://www.dtshot.com/search/?word=%s
@@ -71,7 +74,7 @@ MyFreeMP3+, http://tools.liumingye.cn/music_old/?page=audioPage&type=migu&name=%
 
 科/译
     百度翻译, http://fanyi.baidu.com/#auto/zh/%s
-    谷歌翻译, https://translate.google.com.hk/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&text=%s%&op=translate
+    谷歌翻译, https://translate.google.com.hk/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&text=%s&op=translate
     DeepL 翻译, https://www.deepl.com/translator#zh/en/%s
     有道翻译, http://fanyi.youdao.com/translate?i=%s
 	■■■■■【百科↓】■■■■■, 111
@@ -81,10 +84,13 @@ MyFreeMP3+, http://tools.liumingye.cn/music_old/?page=audioPage&type=migu&name=%
     // 萌娘百科, http://zh.moegirl.org/index.php?search=%s
     维基 (en), http://en.wikipedia.org/wiki/%s
     维基 (zh), http://zh.wikipedia.org/wiki/%s
-
+	■■■■■【电子书↓】■■■■■, 111
+Filepursuit中英, https://filepursuit.com/pursuit?q=%s&type=all&sort=datedesc
 
 </>
 github, https://github.com/search?q=%s
+HuggingFace, https://huggingface.co/search/full-text?q=%s
+开发者搜索, https://kaifa.baidu.com/searchPage?wd=%s
 CSDN, https://so.csdn.net/so/search?q=%s&t=&u=
 掘金, https://juejin.cn/search?query=%s
 博客园, https://zzk.cnblogs.com/s?w=%s
@@ -100,6 +106,7 @@ CSDN, https://so.csdn.net/so/search?q=%s&t=&u=
 谷歌知乎, https://www.google.com.hk/search?q=%s+site%3Azhihu.com&newwindow=1
 谷歌推特, https://www.google.com.hk/search?q=%s+site%3Atwitter.com&newwindow=1&source=hp
 谷歌 YouTube, https://www.google.com.hk/search?q=%s+site%3AYouTube.com&newwindow=1
+Civitai, https://civitai.com/?query=%s&view=feed
 
 资源
 [吾爱破解], http://zhannei.baidu.com/cse/site?q=%s&click=1&cc=52pojie.cn&s=&nsid=
@@ -123,6 +130,7 @@ Skidrow++ (搜英+1FICHI), https://www.skidrowreloaded.com/?s=%s&x=26&y=15
 FreeSteam 解锁+ [英], https://steamunlocked.net/?s=%s
 CODEX 游戏组织[繁琐]+, https://codexpcgames.com/?s=%s
 FitGirl 游戏打包[外]+, https://fitgirlrepacks.co/search/%s
+Thebyrut 游戏+VR 俄, https://thebyrut.org/
 AllGamesForYou, https://agfy.co/?s=%s
 [外]BT 之家[影游], http://btbtt.biz/search-index-keyword-%s.htm
 查游戏是否被黑, https://gamestatus.info/
@@ -135,15 +143,20 @@ AllGamesForYou, https://agfy.co/?s=%s
 耳聆网, https://www.ear0.com/search/word-%s
 熊猫办公[首页], https://www.tukuppt.com
 ■■■■■【声音↑】■■■■■, 111
+
 标小智 C00,  https://www.logosc.cn/so/s%s
-免版权图片素材 pixabay, https://pixabay.com/images/search/%s/
-CleanPng 免扣图片, https://www.cleanpng.com/free/%s.html
-PNG 官网 (搜英), http://pngimg.com/
+Pixabay++ 图/视/音素材 CC0, https://pixabay.com/images/search/%s/
+Pexels++ 视频图片 CC0, https://www.pexels.com/zh-cn/search/%s/
+CleanPng 透明图免扣 CC0, https://www.cleanpng.com/free/%s.html
+Unsplash 摄影师创作 CC0,  https://unsplash.com/s/photos/%s
+Vecteezy 图片视频 ,  https://www.vecteezy.com/free-videos/%s?license-free=true
+Foodiesfeed 美食图片 CC0, https://www.foodiesfeed.com/?s=%s
+CC 零 CC0 [首] , https://cc0.cn/
+stocksnap 摄影师供稿 CC0,  https://stocksnap.io/search/%s
 NicePSD 源文件资源, https://www.nicepsd.com/s?q=%s
 logo 搜索下载, http://instantlogosearch.com/?q=%s
 阿里矢量图, https://www.iconfont.cn/search/index?searchType=icon&q=%s
 ■■■■■【图片↑】■■■■■, 111
-Pexels++免版权视频图片, https://www.pexels.com/zh-cn/search/videos/%s/
 查报告, http://report.seedsufe.com/#/report?search_key=%s
 从电影搜音乐, https://www.tunefind.com/movie/%s-2020
 ■■■■■【视频↑ / 资源站 ↓ 】■■■■■, 111
@@ -156,15 +169,17 @@ Pexels++免版权视频图片, https://www.pexels.com/zh-cn/search/videos/%s/
 越视网_VIP, https://www.yueshiyes.com/?s=%s&cat=
 
 影视
+片库小号++, https://www.btnull.org/s/1---1/%s
 高清电台++, https://gaoqing.fm/s.php?q=%s
-片库小号++[首页], https://www.btnull.org/
+不太灵影视[磁力], https://www.9bt0.com/search?sb=%s
+BT之家1lou站[种子], https://www.1lou.pro/search-%s-1.htm
 PDORO 电影+, http://www.pdoro.com/?s=%s&type=post
 音范丝+, https://www.yinfans.net/?s=%s
 磁力熊[首], https://www.cilixiong.com/
 哔嘀影视, https://www.btbdys.com/search/%s
 mp4 电影[首], https://www.domp4.cc/
 1337X 种子磁力[英], https://www.1377x.to/search/%s/1/
-[失效]凌云[类片库], https://www.lingyun.tv/search.html?wd=%s
+蜜柑计划MiKan[动漫], https://mikanime.tv/Home/Search?searchstr=%s
 茶杯狐, https://www.cupfox.com/search?key=%s
 ■■■■■【字幕↓】■■■■■, 111
 点点字幕搜索, http://www.ddzimu.com/download/xslist.php?key=%s
@@ -176,6 +191,7 @@ A4k 字幕网, https://www.a4k.net/search?term=%s
 厂长资源, https://www.czspp.com/?s=%s
 555 电影 1, https://www.555ys1.com/vodsearch/-------------.html?wd=%s
 555 电影备用, https://www.o8tv.com/vodsearch/%s-------------.html
+蓝光影院, https://www.lgyy.vip/vodsearch/%s-------------.html
 鸭奈飞 Netflix 影视, https://yanetflix.com/vodsearch/-------------.html?wd=%s
 大师兄, https://dsxys.pro/sb/ke7nhZe3c1-.html?wd=%s
 ■■■■■【相关↓】■■■■■, 111
@@ -188,7 +204,7 @@ A4k 字幕网, https://www.a4k.net/search?term=%s
 外
 YouTube, http://www.youtube.com/results?search_query=%s
 国外知乎 Quora, https://www.quora.com/search?q=%s
-推特搜索, https://twitter.com/search?q=%s&src=typed_query&f=live
+推特X搜索, https://x.com/search?q=%s&src=typed_query
 Facebook[外], https://www.google.com.hk/search?q=%s+site%3Afacebook.com
 谷歌商店 play, https://play.google.com/store/search?q=%s&c=apps
 谷歌 apk 下载器[首页], https://apps.evozi.com/apk-downloader/
