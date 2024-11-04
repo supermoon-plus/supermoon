@@ -27,7 +27,6 @@
     新浪微博, http://s.weibo.com/weibo/%s
     微信图文, https://weixin.sogou.com/weixin?type=2&query=%s
     百度指数, http://zhishu.baidu.com/v2/main/index.html#/trend/%s?words=%s
-    数据更新3.17, https://github.com/supermoon-plus/supermoon/blob/main/date/webcode.xml
 购物
 淘宝, http://s.taobao.com/search?q=%s
 淘宝店铺, https://shopsearch.taobao.com/search?q=%s
@@ -214,6 +213,10 @@ App 下载 apkpure, https://apkpure.com/cn/search?q=%s
 [外]BT 之家[影游], http://btbtt.biz/search-index-keyword-%s.htm
 [外]海盗湾磁力 (种游影剧), https://piratebay.party/search/%s/1/99/0
 1337X 影游磁[搜英], https://www.1377x.to/search/%s/1/
+
+other
+webcode, https://github.com/supermoon-plus/supermoon/blob/main/date/webcode.xml
+
 
 //=======================
 // 脚本链接= https://greasyfork.org/zh-CN/scripts/2765-search-engine-jump-for-academic
